@@ -17,7 +17,7 @@ package rx.annotations;
  * 
  * Originally from https://code.google.com/p/guava-libraries/source/browse/guava/src/com/google/common/annotations/Beta.java
  */
-
+//测试一下注解功能
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
