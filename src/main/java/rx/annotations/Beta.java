@@ -36,7 +36,7 @@ import java.lang.annotation.Target;
  * the cost of some extra work during upgrades. However it is generally
  * inadvisable for <i>libraries</i> (which get included on users' CLASSPATHs,
  * outside the library developers' control) to do so.
- *
+ * 注解不兼容的API的改变
  **/
 @Retention(RetentionPolicy.CLASS)
 @Target({
